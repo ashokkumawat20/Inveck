@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Inveck</string>
+
+    <string name="hint_designation">Designation</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_mobileno">Mobile Number</string>
+    <string name="hint_name">Client Name</string>
+
+</resources>

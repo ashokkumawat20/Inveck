@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="example.javatpoint.com.optionmenu.MainActivity">
+
+    <item
+        android:id="@+id/Profile"
+        android:title="Profile" />
+    <item
+        android:id="@+id/Milestones"
+        android:title="Refresh Milestones" />
+    <item
+        android:id="@+id/ResetPassword"
+        android:title="Reset Password" />
+    <item
+        android:id="@+id/clearDatabase"
+        android:title="Clear Database" />
+    <item
+        android:id="@+id/Logout"
+        android:title="Logout"
+        app:showAsAction="withText" />
+</menu>
